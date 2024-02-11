@@ -2,7 +2,7 @@
 
 **Demo Link** : https://imjonacontreras.github.io/sample-project-03-mondrian-art-01/
 
-The Mondrian Artwork Project is a simple yet elegant webpage that pays homage to the iconic abstract artist, Piet Mondrian. Using CSS Grid for layout design, this project aims to replicate Mondrian's famous compositions in a digital format, allowing users to appreciate his distinctive style of geometric abstraction.
+The Mondrian Artwork Project is a simple webpage that pays homage to the iconic abstract artist, Piet Mondrian. Using CSS Grid for layout design, this project aims to replicate Mondrian's famous compositions in a digital format, allowing users to appreciate his distinctive style of geometric abstraction.
 
 ## Key Features:
 - **Grid Layout:** Utilizing CSS Grid, the webpage organizes elements into a visually striking grid structure, reminiscent of Mondrian's grid-based compositions.
